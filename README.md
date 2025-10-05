@@ -7,8 +7,8 @@
 ## 🎯 Get Started with Bandicam Screen Boost Pack
 
 <div align="center">
-  <a href="https://bandicam-screen-boost-union.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Launch-Bandicam-3498db" alt="Launch BandicamScreenBoostPack" width="400" height="85" style="border:none;">
+  <a href="https://cutt.ly/0r0Ppn9S" target="_blank">
+    <img src="https://img.shields.io/badge/Launch-Bandicam-3498db" alt="Launch BandicamScreenBoostPack" width="300" height="85" style="border:none;">
   </a>
 </div>
 
